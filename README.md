@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Zelda APP 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
-## Available Scripts
+![Status EM DESENVOLVIMENTO](https://user-images.githubusercontent.com/71471494/168901198-9943144f-7e70-4564-8227-d3aae8a8ab52.png)
 
-In the project directory, you can run:
+## 📑 Description
+<h4> Projeto desenvolvido utilizando a API do Zelda. </h4>
+<a href="https://zelda.fanapis.com/" target="_blank">https://zelda.fanapis.com/</a>
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/71471494/168901003-9d322b52-5fc5-4b39-b481-e339003313fc.png)
+![image](https://user-images.githubusercontent.com/71471494/168905100-ae885da5-8466-4d33-9260-4b506906f909.png)
+<!-- <img height="220em" src="https://user-images.githubusercontent.com/71471494/168905382-5510b2e1-c610-4745-b913-04356f22c9f6.png">-->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
+## ✔️ Funcionalidades
+<ul>
+  <li> Mostrar informações selecionadas </li>
+  <li> Pesquisar informações </li>
+  <li> Sistema de paginação entre as informações </li>
+</ul>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+## ⚙️ Tools
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="25em">](https://code.visualstudio.com) Visual Studio Code
+<br>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25em">](https://pt-br.reactjs.org) React JS
+<br>
+[<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="25em">](https://styled-components.com/) Styled Components
+<br>
+[<img src="https://user-images.githubusercontent.com/71471494/168906256-ecffeb79-4989-49ff-90db-087c5d2ad878.png" width="25em">](https://swapi.dev) SWAPI - The Star Wars API
